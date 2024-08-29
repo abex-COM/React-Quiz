@@ -2,7 +2,7 @@ function Header() {
   return (
     <header className="flex gap-2 w-full justify-center items-center  py-5">
       <img
-        src="src/assets/react.svg "
+        src="/islamic.png "
         className=" sm:w-20 h-10  w-10 md:w-14 md:h-14  xs:w-12 xs:h-12 "
         alt="React logo"
       />
