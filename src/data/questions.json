@@ -1,138 +1,407 @@
 {
   "questions": [
     {
-      "question": "Which is the most popular JavaScript framework?",
-      "options": ["Angular", "React", "Svelte", "Vue"],
-      "correctOption": 1,
-      "points": 10
-    },
-    {
-      "question": "Which company invented React?",
-      "options": ["Google", "Apple", "Netflix", "Facebook"],
+      "question": "Who was the last Prophet in Islam?",
+      "options": [
+        "Prophet Adam",
+        "Prophet Musa",
+        "Prophet Isa",
+        "Prophet Muhammad"
+      ],
       "correctOption": 3,
       "points": 10
     },
     {
-      "question": "What's the fundamental building block of React apps?",
-      "options": ["Components", "Blocks", "Elements", "Effects"],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "What's the name of the syntax we use to describe the UI in React components?",
-      "options": ["FBJ", "Babel", "JSX", "ES2015"],
+      "question": "What is the holy book of Islam?",
+      "options": ["Bible", "Torah", "Quran", "Gita"],
       "correctOption": 2,
       "points": 10
     },
     {
-      "question": "How does data flow naturally in React apps?",
+      "question": "In which city is the Kaaba located?",
+      "options": ["Medina", "Jerusalem", "Mecca", "Cairo"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "How many times a day are Muslims required to pray?",
+      "options": ["Three", "Five", "Seven", "Nine"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which month do Muslims fast from dawn until sunset?",
+      "options": ["Ramadan", "Shawwal", "Dhul-Hijjah", "Rajab"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who was the first Caliph after Prophet Muhammad (PBUH)?",
       "options": [
-        "From parents to children",
-        "From children to parents",
-        "Both ways",
-        "The developers decides"
+        "Umar ibn Al-Khattab",
+        "Ali ibn Abi Talib",
+        "Abu Bakr As-Siddiq",
+        "Uthman ibn Affan"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the term for charity given to the poor in Islam?",
+      "options": ["Zakat", "Sadaqah", "Kaffarah", "Fidya"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "How many chapters (Surahs) are there in the Quran?",
+      "options": ["104", "110", "114", "120"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the first pillar of Islam?",
+      "options": ["Shahada", "Salah", "Zakat", "Hajj"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which angel brought revelations to Prophet Muhammad (PBUH)?",
+      "options": [
+        "Angel Israfil",
+        "Angel Jibril",
+        "Angel Mikail",
+        "Angel Malik"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which prayer is performed in the early morning before sunrise?",
+      "options": ["Zuhr", "Asr", "Fajr", "Maghrib"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which Islamic holiday marks the end of Ramadan?",
+      "options": ["Eid al-Adha", "Eid al-Fitr", "Hajj", "Mawlid"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which prophet is associated with the construction of the Kaaba?",
+      "options": [
+        "Prophet Adam",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Yusuf"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which city is considered the second holiest in Islam?",
+      "options": ["Mecca", "Medina", "Jerusalem", "Baghdad"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "How many names of Allah (SWT) are there in Islam?",
+      "options": ["77", "88", "99", "101"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who was the first woman to accept Islam?",
+      "options": ["Aisha", "Fatimah", "Khadijah", "Hafsa"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which surah is known as the heart of the Quran?",
+      "options": [
+        "Surah Al-Fatiha",
+        "Surah Al-Baqarah",
+        "Surah Yaseen",
+        "Surah Al-Ikhlas"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the Islamic term for the pilgrimage to Mecca?",
+      "options": ["Umrah", "Hajj", "Jihad", "Ziyarah"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who is known as the 'Mother of the Believers'?",
+      "options": ["Fatimah", "Khadijah", "Aisha", "Hafsa"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which battle was the first fought by the Muslims?",
+      "options": [
+        "Battle of Uhud",
+        "Battle of Badr",
+        "Battle of Khandaq",
+        "Battle of Hunayn"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the Islamic term for the oneness of Allah (SWT)?",
+      "options": ["Shirk", "Tawheed", "Hadith", "Fiqh"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which prophet was swallowed by a whale?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Yunus",
+        "Prophet Nuh",
+        "Prophet Yusuf"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which night is considered better than a thousand months in Islam?",
+      "options": [
+        "Laylat al-Qadr",
+        "Laylat al-Miraj",
+        "Laylat al-Isra",
+        "Laylat al-Bara'ah"
       ],
       "correctOption": 0,
       "points": 10
     },
     {
-      "question": "How to pass data into a child component?",
-      "options": ["State", "Props", "PropTypes", "Parameters"],
+      "question": "Which Prophet could speak to animals?",
+      "options": [
+        "Prophet Isa",
+        "Prophet Sulaiman",
+        "Prophet Dawood",
+        "Prophet Ibrahim"
+      ],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "When to use derived state?",
-      "options": [
-        "Whenever the state should not trigger a re-render",
-        "Whenever the state can be synchronized with an effect",
-        "Whenever the state should be accessible to all components",
-        "Whenever the state can be computed from another state variable"
-      ],
-      "correctOption": 3,
-      "points": 30
+      "question": "What is the Arabic term for the community of Muslims?",
+      "options": ["Ummah", "Shura", "Jama'ah", "Khilafah"],
+      "correctOption": 0,
+      "points": 10
     },
     {
-      "question": "What triggers a UI re-render in React?",
+      "question": "What is the significance of the well of Zamzam?",
       "options": [
-        "Running an effect",
-        "Passing props",
-        "Updating state",
-        "Adding event listeners to DOM elements"
+        "It is where Prophet Muhammad (PBUH) was born",
+        "It is where Hagar found water for her son",
+        "It is the place where the Kaaba was built",
+        "It is where Prophet Ibrahim (AS) was buried"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "How many days are in the Islamic lunar month?",
+      "options": ["28", "29 or 30", "30 or 31", "31"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the Arabic term for the sayings of the Prophet Muhammad (PBUH)?",
+      "options": ["Hadith", "Sunnah", "Qudsi", "Fiqh"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which surah is known as the chapter of sincerity?",
+      "options": [
+        "Surah Al-Ikhlas",
+        "Surah Al-Falaq",
+        "Surah Al-Nas",
+        "Surah Al-Kawthar"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "How many years did Prophet Muhammad (PBUH) live in Mecca after prophethood?",
+      "options": ["10 years", "13 years", "15 years", "20 years"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the Arabic term for the path or way in Islamic jurisprudence?",
+      "options": ["Shariah", "Fiqh", "Ijma", "Qiyas"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which Prophet is known for building the Ark?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Ibrahim",
+        "Prophet Nuh",
+        "Prophet Yusuf"
       ],
       "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the Islamic term for lawful and permissible?",
+      "options": ["Halal", "Haram", "Makruh", "Mubah"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which prophet is associated with the parting of the Red Sea?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Ibrahim",
+        "Prophet Isa",
+        "Prophet Yusuf"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which Islamic term refers to struggle or striving in the way of Allah (SWT)?",
+      "options": ["Hajj", "Sawm", "Jihad", "Zakat"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who was the father of Prophet Yusuf (AS)?",
+      "options": [
+        "Prophet Ibrahim",
+        "Prophet Ishaq",
+        "Prophet Yaqub",
+        "Prophet Ismail"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which surah was revealed in its entirety at once?",
+      "options": [
+        "Surah Al-Mulk",
+        "Surah Al-Fatiha",
+        "Surah Al-Kawthar",
+        "Surah Al-Anfal"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the term for the end times in Islamic eschatology?",
+      "options": ["Akhirah", "Qiyamah", "Barzakh", "Jannah"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which angel is responsible for blowing the trumpet on the Day of Judgment?",
+      "options": [
+        "Angel Jibril",
+        "Angel Israfil",
+        "Angel Mikail",
+        "Angel Malik"
+      ],
+      "correctOption": 1,
       "points": 20
     },
     {
-      "question": "When do we directly \"touch\" the DOM in React?",
+      "question": "Who was the first martyr in Islam?",
       "options": [
-        "When we need to listen to an event",
-        "When we need to change the UI",
-        "When we need to add styles",
-        "Almost never"
+        "Sumayyah bint Khabbat",
+        "Khadijah bint Khuwaylid",
+        "Aisha bint Abu Bakr",
+        "Fatimah bint Muhammad"
       ],
-      "correctOption": 3,
-      "points": 20
+      "correctOption": 0,
+      "points": 10
     },
     {
-      "question": "In what situation do we use a callback to update state?",
+      "question": "Which Prophet is known for his wisdom and judgment?",
       "options": [
-        "When updating the state will be slow",
-        "When the updated state is very data-intensive",
-        "When the state update should happen faster",
-        "When the new state depends on the previous state"
+        "Prophet Dawood",
+        "Prophet Sulaiman",
+        "Prophet Ibrahim",
+        "Prophet Yusuf"
       ],
-      "correctOption": 3,
-      "points": 30
-    },
-    {
-      "question": "If we pass a function to useState, when will that function be called?",
-      "options": [
-        "On each re-render",
-        "Each time we update the state",
-        "Only on the initial render",
-        "The first time we update the state"
-      ],
-      "correctOption": 2,
-      "points": 30
-    },
-    {
-      "question": "Which hook to use for an API request on the component's initial render?",
-      "options": ["useState", "useEffect", "useRef", "useReducer"],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "Which variables should go into the useEffect dependency array?",
-      "options": [
-        "Usually none",
-        "All our state variables",
-        "All state and props referenced in the effect",
-        "All variables needed for clean up"
-      ],
+      "question": "What is the Islamic term for the testimony of faith?",
+      "options": ["Salah", "Zakat", "Shahada", "Hajj"],
       "correctOption": 2,
       "points": 30
     },
     {
-      "question": "An effect will always run on the initial render.",
+      "question": "Which surah is often recited to seek protection?",
       "options": [
-        "True",
-        "It depends on the dependency array",
-        "False",
-        "In depends on the code in the effect"
+        "Surah Al-Fatiha",
+        "Surah Al-Falaq",
+        "Surah Al-Baqarah",
+        "Surah Al-Ikhlas"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who is known as the 'Seal of the Prophets'?",
+      "options": [
+        "Prophet Muhammad",
+        "Prophet Musa",
+        "Prophet Isa",
+        "Prophet Ibrahim"
       ],
       "correctOption": 0,
       "points": 30
     },
     {
-      "question": "When will an effect run if it doesn't have a dependency array?",
+      "question": "What is the Arabic term for a chapter in the Quran?",
+      "options": ["Ayah", "Hadith", "Surah", "Juz"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who is considered the father of the Arab people?",
       "options": [
-        "Only when the component mounts",
-        "Only when the component unmounts",
-        "The first time the component re-renders",
-        "Each time the component is re-rendered"
+        "Prophet Yusuf",
+        "Prophet Musa",
+        "Prophet Ismail",
+        "Prophet Nuh"
       ],
-      "correctOption": 3,
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "How many obligatory prayers are there in a day?",
+      "options": ["Three", "Five", "Seven", "Ten"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the Arabic term for the Islamic legal system?",
+      "options": ["Ijma", "Shariah", "Qiyas", "Fiqh"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who was the first male to accept Islam?",
+      "options": [
+        "Ali ibn Abi Talib",
+        "Abu Bakr As-Siddiq",
+        "Umar ibn Al-Khattab",
+        "Uthman ibn Affan"
+      ],
+      "correctOption": 0,
       "points": 20
     }
   ]
