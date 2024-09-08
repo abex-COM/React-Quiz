@@ -1,4 +1,6 @@
+
 function Header() {
+  // const {qustions}=useQuiz()
   return (
     <header className="flex gap-2 w-full justify-center items-center  py-5">
       <img

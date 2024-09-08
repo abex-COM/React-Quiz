@@ -1,11 +1,8 @@
 import confetti from "canvas-confetti";
+import { useQuiz } from "../Contexts/QuizContext";
 
-export default function FinishScreen({
-  points,
-  totalPoints,
-  highScore,
-  dispatch,
-}) {
+export default function FinishScreen() {
+  const { points, totalPoints, highScore, dispatch } = useQuiz();
   function triggerConfetti() {
     const duration = 3000; // 3 seconds
     const end = Date.now() + duration;

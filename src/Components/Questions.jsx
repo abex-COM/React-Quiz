@@ -1,12 +1,10 @@
+import { useQuiz } from "../Contexts/QuizContext";
 import Option from "./Options";
 
-export default function Questions({
-  question,
-  answer,
-  dispatch,
-  isClicked,
-  index,
-}) {
+export default function Questions() {
+  const { questions, answer, dispatch, isClicked, index } = useQuiz();
+  const question = questions[index];
+
   return (
     <div className="flex px-2 items-center flex-col w-full    justify-center gap-3">
       <h4 className="sm:text-xl">
